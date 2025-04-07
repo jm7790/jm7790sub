@@ -18,7 +18,11 @@ if ! wget -q --show-progress http://simonwang.cn:7090/pg/pg.zip; then
     exit 1
 fi
 
-# 解压文件
+# 清空pg文件夹（新增内容）
+echo -e "\033[34m正在清空pg文件夹...\033[0m"
+rm -rf pg
+
+# 解压文件（修改后的命令）
 echo -e "\033[34m正在解压文件...\033[0m"
 if ! unzip -o -q pg.zip -d pg/; then
     echo -e "\033[31m错误：解压失败\033[0m"
