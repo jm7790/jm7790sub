@@ -32,7 +32,7 @@ rm -f pg.zip
 # Git操作
 echo -e "\033[34m正在更新Git仓库...\033[0m"
 git add . && \
-git commit -q -m "Files Update" && \
+git commit -m "Files Update" && \
 git push -u origin main || {
     echo -e "\033[31m错误：Git操作失败\033[0m"
     exit 1
