@@ -1,5 +1,5 @@
 {
-	"spider":"./pg.jar;md5;a41f5410f01205f28f585e6206d99a49",
+	"spider":"./pg.jar;md5;0653567667b2d0d1926d6916d32f5672",
 	"sites":[
 		{
 			"key": "豆瓣",
@@ -503,7 +503,7 @@
 			"api": "csp_Market",
 			"searchable": 0,
 			"changeable": 0,
-			"ext": "https://fm.t4tv.hz.cz/json/market.json"
+			"ext": "https://gh-proxy.com/github.com/SimonWang911/simonwangsub/raw/refs/heads/main/appupdate/appupdate.json"
 		},
 		{
 			"key": "直播转点播",
