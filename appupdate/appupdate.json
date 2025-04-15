@@ -120,19 +120,19 @@
         "list": [
             {
                 "name": "📺TV版",
-                "url": "https://gh-proxy.com/github.com/SimonWang911/simonwangsub/raw/refs/heads/main/appupdate/YingShiCang/影视仓电视版6.0.5.1.apk",
+                "url": "https://gh-proxy.com/github.com/SimonWang911/simonwangsub/raw/refs/heads/main/appupdate/YingShiCang/%E5%BD%B1%E8%A7%86%E4%BB%93%E7%94%B5%E8%A7%86%E7%89%886.0.5.1.apk",
                 "icon": "https://gh-proxy.com/github.com/SimonWang911/simonwangsub/blob/main/logo/tv.png",
                 "version": "6.0.5.1"
             },
             {
                 "name": "📱手机版",
-                "url": "https://gh-proxy.com/github.com/SimonWang911/simonwangsub/raw/refs/heads/main/appupdate/YingShiCang/影视仓-3.0.9.1.apk",
+                "url": "https://gh-proxy.com/github.com/SimonWang911/simonwangsub/raw/refs/heads/main/appupdate/YingShiCang/%E5%BD%B1%E8%A7%86%E4%BB%93-3.0.9.1.apk",
                 "icon": "https://gh-proxy.com/github.com/SimonWang911/simonwangsub/blob/main/logo/phone.png",
                 "version": "3.0.9.1"
             },
             {
                 "name": "🎮️游戏版",
-                "url": "https://gh-proxy.com/github.com/SimonWang911/simonwangsub/raw/refs/heads/main/appupdate/YingShiCang/影视仓_2.0.99.apk",
+                "url": "https://gh-proxy.com/github.com/SimonWang911/simonwangsub/raw/refs/heads/main/appupdate/YingShiCang/%E5%BD%B1%E8%A7%86%E4%BB%93_2.0.99.apk",
                 "icon": "https://gh-proxy.com/github.com/SimonWang911/simonwangsub/blob/main/logo/phone.png",
                 "version": "2.0.99"
             }
