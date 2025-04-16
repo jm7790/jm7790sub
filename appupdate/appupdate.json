@@ -151,13 +151,13 @@
                 "name": "📺️海信版",
                 "url": "https://gh-proxy.com/github.com/SimonWang911/simonwangsub/raw/refs/heads/main/appupdate/takagen99/TVBox_takagen99_20250325-0046-arm64-hisense.apk",
                 "icon": "https://gh-proxy.com/github.com/SimonWang911/simonwangsub/blob/main/logo/tv.png",
-                "version": "0325|32位"
+                "version": "0325|64位"
             },
             {
                 "name": "📺️通用版",
                 "url": "https://gh-proxy.com/github.com/SimonWang911/simonwangsub/raw/refs/heads/main/appupdate/takagen99/TVBox_takagen99_20250325-0046-armeabi-generic.apk",
                 "icon": "https://gh-proxy.com/github.com/SimonWang911/simonwangsub/blob/main/logo/tv.png",
-                "version": "0325|64位(推荐)"
+                "version": "0325|32位"
             },
             {
                 "name": "📺️海信版",
