@@ -93,25 +93,25 @@
                 "name": "📺️电视版",
                 "url": "https://gh-proxy.com/github.com/SimonWang911/simonwangsub/raw/refs/heads/main/appupdate/FongMi/leanback-arm64_v8a.apk",
                 "icon": "https://gh-proxy.com/github.com/SimonWang911/simonwangsub/blob/main/logo/tv.png",
-                "version": "3.6.3|64位(推荐)"
+                "version": "3.6.7|64位(推荐)"
             },
             {
                 "name": "📺️电视版",
                 "url": "https://gh-proxy.com/github.com/SimonWang911/simonwangsub/raw/refs/heads/main/appupdate/FongMi/leanback-armeabi_v7a.apk",
                 "icon": "https://gh-proxy.com/github.com/SimonWang911/simonwangsub/blob/main/logo/tv.png",
-                "version": "3.6.3|32位"
+                "version": "3.6.7|32位"
             },
             {
                 "name": "📱手机版",
                 "url": "https://gh-proxy.com/github.com/SimonWang911/simonwangsub/raw/refs/heads/main/appupdate/FongMi/mobile-arm64_v8a.apk",
                 "icon": "https://gh-proxy.com/github.com/SimonWang911/simonwangsub/blob/main/logo/phone.png",
-                "version": "3.6.3|64位(推荐)"
+                "version": "3.6.7|64位(推荐)"
             },
             {
                 "name": "📱手机版",
                 "url": "https://gh-proxy.com/github.com/SimonWang911/simonwangsub/raw/refs/heads/main/appupdate/FongMi/mobile-armeabi_v7a.apk",
                 "icon": "https://gh-proxy.com/github.com/SimonWang911/simonwangsub/blob/main/logo/phone.png",
-                "version": "3.6.3|32位"
+                "version": "3.6.7|32位"
             }
         ]
     },
