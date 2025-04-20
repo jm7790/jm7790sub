@@ -3,6 +3,27 @@
   "sites": [
     {
       "key": "豆瓣",
+      "name": "豆瓣｜首页",
+      "type": 3,
+      "api": "csp_Douban",
+      "searchable": 0,
+      "jar": "https://gh-proxy.com/raw.githubusercontent.com/SimonWang911/simonwangsub/refs/heads/main/Pizazz/TVBoxOSC/tvbox/spider.jar;md5;pizazz_md5"
+    },
+    {
+      "key": "热播影视",
+      "name": "热播｜影视",
+      "type": 3,
+      "api": "csp_AppRJ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": {
+        "url": "http://v.rbotv.cn"
+      },
+      "jar": "https://gh-proxy.com/raw.githubusercontent.com/SimonWang911/simonwangsub/refs/heads/main/Pizazz/TVBoxOSC/tvbox/spider.jar;md5;pizazz_md5"
+    },
+    {
+      "key": "豆瓣",
       "name": "豆瓣",
       "type": 3,
       "api": "csp_Douban",
@@ -1051,7 +1072,7 @@
   ],
   "lives": [
     {
-      "name": "🍼Simon┃酸奶TV",
+      "name": "酸奶TV",
       "url": "https://gh-proxy.com/raw.githubusercontent.com/SimonWang911/simonwangsub/refs/heads/main/tvbus/yogurtTv.txt",
       "core": {
         "auth": "local://tvbus",
@@ -1104,14 +1125,6 @@
       "type": 0,
       "url": "./lib/biptv.txt",
       "ua": "okhttp/3.15",
-      "epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
-    },
-    {
-      "name": "ITV.BETA",
-      "type": 0,
-      "url": "http://127.0.0.1:10079/c/3600/noproxy/https://itv-list.myukj.cn/list/itv_beta.m3u",
-      "ua": "2724c07262457522",
       "epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
     },
