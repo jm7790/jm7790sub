@@ -2,7 +2,7 @@
   "spider": "./pg.jar;md5;afda4f34509f1b5fe74c07241a5c4f58",
   "sites": [
     {
-      "key": "豆瓣",
+      "key": "豆瓣热播",
       "name": "豆瓣｜首页",
       "type": 3,
       "api": "csp_Douban",
