@@ -228,19 +228,19 @@
         "name": "🚗️车机软件",
         "list": [
             {
-                "name": "🌏高德地图",
+                "name": "✈️️高德地图",
                 "url": "https://mapdownload.autonavi.com/apps/auto/manual/V810/Auto_8.1.0.600185_release_signed.apk",
                 "icon": "https://bkimg.cdn.bcebos.com/pic/7c1ed21b0ef41bd5ad6ec10ef18d96cb39dbb7fd9788?x-bce-process=image/format,f_auto",
                 "version": "车机版"
             },
             {
-                "name": "🌏百度地图",
+                "name": "🐾百度地图",
                 "url": "https://downapp.baidu.com/original_new/322/1/1/1745936715759/BaiduMapForAuto.apk",
                 "icon": "https://bkimg.cdn.bcebos.com/pic/18d8bc3eb13533fa828b7f49158aea1f4134970aed18?x-bce-process=image/format,f_auto",
                 "version": "车机版"
             },
             {
-                "name": "🌏腾讯地图",
+                "name": "🐧腾讯地图",
                 "url": "http://simonwang.cn:7090/tvbox/appupdate/Car/%E8%85%BE%E8%AE%AF%E6%99%BA%E9%A9%BE%E5%9C%B0%E5%9B%BE.apk",
                 "icon": "https://img2.baidu.com/it/u=2945857691,3815180328&fm=253&fmt=auto&app=138&f=PNG?w=981&h=500",
                 "version": "车机版"
