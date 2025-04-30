@@ -238,6 +238,12 @@
                 "url": "https://downapp.baidu.com/original_new/322/1/1/1745936715759/BaiduMapForAuto.apk",
                 "icon": "https://bkimg.cdn.bcebos.com/pic/18d8bc3eb13533fa828b7f49158aea1f4134970aed18?x-bce-process=image/format,f_auto",
                 "version": "车机版"
+            },
+            {
+                "name": "🌏腾讯地图",
+                "url": "http://simonwang.cn:7099/d/OneDrive/OpenFiles/OpenFiles/Tools/Android%E5%88%B7%E6%9C%BA/%E5%BA%94%E7%94%A8/%E8%85%BE%E8%AE%AF%E6%99%BA%E9%A9%BE%E5%9C%B0%E5%9B%BE.apk",
+                "icon": "https://img.yxss.com/m00/e4/15/f58b69550c3e1f07e5bd7f06ece88bdc.jpg",
+                "version": "车机版"
             }
         ]
     }
