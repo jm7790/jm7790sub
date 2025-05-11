@@ -1,0 +1,13 @@
+[
+  {
+    "name": "检查更新",
+    "list": [
+      {
+        "name": "单线路",
+        "url": "https://gitee.com/PizazzXS/another-d/raw/master/单线路.zip",
+        "icon": "",
+        "version": "05.11"
+      }
+    ]
+  }
+]
