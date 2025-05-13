@@ -1401,7 +1401,7 @@
   ],
   "lives": [
     {
-      "name": "酸奶直播",
+      "name": "酸奶直播|请使用32位软件",
       "url": "https://gh-proxy.com/github.com/SimonWang911/simonwangsub/raw/refs/heads/main/tvbus/yogurtTv.txt",
       "core": {
         "auth": "local://tvbus",
@@ -1414,7 +1414,7 @@
       }
     },
     {
-      "name": "小云️直播",
+      "name": "小云️直播|请使用32位软件",
       "url": "https://gh-proxy.com/github.com/SimonWang911/simonwangsub/raw/refs/heads/main/tvbus/xiaoyun.m3u",
       "core": {
         "auth": "local://tvbus",
