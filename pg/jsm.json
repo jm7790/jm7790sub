@@ -1,5 +1,5 @@
 {
-  "spider": "./pg.jar;md5;7cbd63622a3e7120e40cd88edbd2b629",
+  "spider": "./pg.jar;md5;9a77a027fb3048ab27a481cb60b8de47",
   "sites": [
     {
       "key": "豆瓣",
@@ -439,6 +439,18 @@
       "api": "csp_Local"
     },
     {
+      "key": "WebDAV",
+      "name": "WebDAV[jar]",
+      "type": 3,
+      "api": "csp_WebDAV",
+      "searchable": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "timeout": 60,
+      "playerType": 2,
+      "ext": "./lib/webdav.json"
+    },
+    {
       "key": "AList",
       "name": "网盘|Alist[jar]",
       "type": 3,
@@ -448,7 +460,7 @@
       "changeable": 1,
       "timeout": 60,
       "playerType": 2,
-      "ext": "./js/alistjar.json"
+      "ext": "./lib/alistjar.json"
     },
     {
       "key": "PushShare",
