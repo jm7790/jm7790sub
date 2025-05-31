@@ -76,35 +76,6 @@
       "jar": "https://gh-proxy.com/github.com/SimonWang911/simonwangsub/raw/refs/heads/main/Pizazz/TVBoxOSC/tvbox/spider.jar;md5;9b0763697eb4e39a2b51a3f7c6db5c23"
     },
     {
-      "key": "趣看",
-      "name": "趣看|APP",
-      "type": 3,
-      "quickSearch": 1,
-      "api": "csp_AppMuou",
-      "ext": {
-        "url": "https://xjuzi.top",
-        "dataKey": "6a482a70b80eefc9",
-        "dataIv": "c995826a3e86fedd",
-        "jxurl": "https://www.ququkan.cc"
-      },
-      "jar": "https://gh-proxy.com/github.com/SimonWang911/simonwangsub/raw/refs/heads/main/Pizazz/TVBoxOSC/tvbox/spider.jar;md5;9b0763697eb4e39a2b51a3f7c6db5c23"
-    },
-    {
-      "key": "橘猫",
-      "name": "橘猫|APP",
-      "type": 3,
-      "quickSearch": 1,
-      "api": "csp_AppGet",
-      "ext": {
-        "url": "https://appcms.jm4k.top",
-        "dataKey": "KPEkKAESYi38CQdn",
-        "dataIv": "KPEkKAESYi38CQdn",
-        "deviceId": "",
-        "version": "119"
-      },
-      "jar": "https://gh-proxy.com/github.com/SimonWang911/simonwangsub/raw/refs/heads/main/Pizazz/TVBoxOSC/tvbox/spider.jar;md5;9b0763697eb4e39a2b51a3f7c6db5c23"
-    },
-    {
       "key": "忍者",
       "name": "忍者|APP",
       "type": 3,
@@ -116,36 +87,6 @@
         "dataIv": "1234567887654321",
         "deviceId": "",
         "version": ""
-      },
-      "jar": "https://gh-proxy.com/github.com/SimonWang911/simonwangsub/raw/refs/heads/main/Pizazz/TVBoxOSC/tvbox/spider.jar;md5;9b0763697eb4e39a2b51a3f7c6db5c23"
-    },
-    {
-      "key": "晴天",
-      "name": "晴天|APP",
-      "type": 3,
-      "quickSearch": 1,
-      "api": "csp_AppGet",
-      "ext": {
-        "url": "https://qjappcms.sun4k.top",
-        "dataKey": "sBxqXVF5pAHbGzrH",
-        "dataIv": "sBxqXVF5pAHbGzrH",
-        "deviceId": "",
-        "version": "119"
-      },
-      "jar": "https://gh-proxy.com/github.com/SimonWang911/simonwangsub/raw/refs/heads/main/Pizazz/TVBoxOSC/tvbox/spider.jar;md5;9b0763697eb4e39a2b51a3f7c6db5c23"
-    },
-    {
-      "key": "集多",
-      "name": "集多|APP",
-      "type": 3,
-      "quickSearch": 1,
-      "api": "csp_AppGet",
-      "ext": {
-        "url": "http://220.231.146.94:6261",
-        "dataKey": "hL7xN4P9rS2vK5Mq",
-        "dataIv": "hL7xN4P9rS2vK5Mq",
-        "deviceId": "",
-        "version": "200"
       },
       "jar": "https://gh-proxy.com/github.com/SimonWang911/simonwangsub/raw/refs/heads/main/Pizazz/TVBoxOSC/tvbox/spider.jar;md5;9b0763697eb4e39a2b51a3f7c6db5c23"
     },
@@ -237,17 +178,6 @@
       "jar": "https://gh-proxy.com/github.com/SimonWang911/simonwangsub/raw/refs/heads/main/Pizazz/TVBoxOSC/tvbox/spider.jar;md5;9b0763697eb4e39a2b51a3f7c6db5c23"
     },
     {
-      "key": "八号影视",
-      "name": "八号|影视",
-      "type": 3,
-      "api": "csp_XYQHiker",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://simonwang.cn:7090/tvbox/Pizazz/XYQHiker/八号影视.json",
-      "jar": "https://gh-proxy.com/github.com/SimonWang911/simonwangsub/raw/refs/heads/main/Pizazz/TVBoxOSC/tvbox/spider.jar;md5;9b0763697eb4e39a2b51a3f7c6db5c23"
-    },
-    {
       "key": "采集之王",
       "name": "采集|合集",
       "type": 3,
@@ -256,30 +186,12 @@
       "jar": "https://gh-proxy.com/github.com/SimonWang911/simonwangsub/raw/refs/heads/main/Pizazz/TVBoxOSC/tvbox/spider.jar;md5;9b0763697eb4e39a2b51a3f7c6db5c23"
     },
     {
-      "key": "木叶",
-      "name": "木叶|App",
-      "type": 3,
-      "api": "csp_Xdai",
-      "playerType": 2,
-      "ext": "7lj763gg0939795i0079i487k512jki6g1k6980k9li631344h4455k7k103473i0kh8049hgg4484h0091ggjh2l8ki33lhi2755g07i880jjkh12h73gk35kg35j6hk6g296l5",
-      "jar": "http://cdn.qiaoji8.com/fix250524.jar;md5;165bf6823d6a4e16f6cbc18f5bb16dce"
-    },
-    {
       "key": "蝴蝶",
       "name": "蝴蝶|APP",
       "type": 3,
       "api": "csp_Hudie",
       "playerType": 1,
       "ext": "7lj763gg402i794255648kj0hj539g9hl7k6jk52ji",
-      "jar": "http://cdn.qiaoji8.com/fix250524.jar;md5;165bf6823d6a4e16f6cbc18f5bb16dce"
-    },
-    {
-      "key": "柠檬",
-      "name": "柠檬|App",
-      "type": 3,
-      "api": "csp_Nmvod",
-      "playerType": 2,
-      "ext": "7lj763gg402i7942503g839jg74h8h88highi40799jh6i6k454419l0l5184k0g548458hh994hjj94330jk296k4l045",
       "jar": "http://cdn.qiaoji8.com/fix250524.jar;md5;165bf6823d6a4e16f6cbc18f5bb16dce"
     },
     {
@@ -292,18 +204,6 @@
       "searchable": 1,
       "playerType": 2,
       "ext": "7lj763gg402i7942463j9j9jgg449698khhh845ki38473",
-      "jar": "http://cdn.qiaoji8.com/fix250524.jar;md5;165bf6823d6a4e16f6cbc18f5bb16dce"
-    },
-    {
-      "key": "csp_sbb",
-      "name": "布布|直连",
-      "type": 3,
-      "api": "csp_Czsapp",
-      "searchable": 1,
-      "playerType": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "7lj763gg402i7942463j9j9jg3498k93lhggih54828g332i1j",
       "jar": "http://cdn.qiaoji8.com/fix250524.jar;md5;165bf6823d6a4e16f6cbc18f5bb16dce"
     },
     {
