@@ -76,6 +76,36 @@
       "jar": "https://gh-proxy.com/github.com/SimonWang911/simonwangsub/raw/refs/heads/main/Pizazz/TVBoxOSC/tvbox/spider.jar;md5;a3728279be6e46f293d9428893716d65"
     },
     {
+      "key": "水滴",
+      "name": "水滴|APP",
+      "type": 3,
+      "quickSearch": 1,
+      "api": "csp_AppGet2",
+      "ext": {
+        "url": "http://1.94.105.93",
+        "dataKey": "gKdQKLbwhhLp4Ytv",
+        "dataIv": "gKdQKLbwhhLp4Ytv",
+        "deviceId": "",
+        "version": ""
+      },
+      "jar": "https://gh-proxy.com/github.com/SimonWang911/simonwangsub/raw/refs/heads/main/Pizazz/TVBoxOSC/tvbox/spider.jar;md5;a3728279be6e46f293d9428893716d65"
+    },
+    {
+      "key": "咖啡",
+      "name": "️咖啡|APP",
+      "type": 3,
+      "quickSearch": 1,
+      "api": "csp_AppGet2",
+      "ext": {
+        "url": "http://160.202.243.62:2566",
+        "dataKey": "qwertyuiopqwerty",
+        "dataIv": "qwertyuiopqwerty",
+        "deviceId": "",
+        "version": "120"
+      },
+      "jar": "https://gh-proxy.com/github.com/SimonWang911/simonwangsub/raw/refs/heads/main/Pizazz/TVBoxOSC/tvbox/spider.jar;md5;a3728279be6e46f293d9428893716d65"
+    },
+    {
       "key": "忍者",
       "name": "忍者|APP",
       "type": 3,
@@ -91,6 +121,21 @@
       "jar": "https://gh-proxy.com/github.com/SimonWang911/simonwangsub/raw/refs/heads/main/Pizazz/TVBoxOSC/tvbox/spider.jar;md5;a3728279be6e46f293d9428893716d65"
     },
     {
+      "key": "再看",
+      "name": "👀再看|APP",
+      "type": 3,
+      "quickSearch": 1,
+      "api": "csp_AppGet",
+      "ext": {
+        "url": "http://149.88.64.161:8627",
+        "dataKey": "123456789ABCDEFG",
+        "dataIv": "123456789ABCDEFG",
+        "deviceId": "2bb4c10f3e043307dbfc579bd0db23f4e",
+        "version": "110"
+      },
+      "jar": "https://gh-proxy.com/github.com/SimonWang911/simonwangsub/raw/refs/heads/main/Pizazz/TVBoxOSC/tvbox/spider.jar;md5;a3728279be6e46f293d9428893716d65"
+    },
+    {
       "key": "苹果影视",
       "name": "苹果|影视",
       "type": 3,
@@ -98,21 +143,6 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://gh-proxy.com/github.com/SimonWang911/simonwangsub/raw/refs/heads/main/Pizazz/TVBoxOSC/tvbox/spider.jar;md5;a3728279be6e46f293d9428893716d65"
-    },
-    {
-      "key": "星河",
-      "name": "星河|APP",
-      "type": 3,
-      "quickSearch": 1,
-      "api": "csp_AppGet",
-      "ext": {
-        "url": "http://121.62.22.204:9876",
-        "dataKey": "f5e2tx53ykp6s2c9",
-        "dataIv": "f5e2tx53ykp6s2c9",
-        "deviceId": "",
-        "version": "361"
-      },
       "jar": "https://gh-proxy.com/github.com/SimonWang911/simonwangsub/raw/refs/heads/main/Pizazz/TVBoxOSC/tvbox/spider.jar;md5;a3728279be6e46f293d9428893716d65"
     },
     {
@@ -186,12 +216,30 @@
       "jar": "https://gh-proxy.com/github.com/SimonWang911/simonwangsub/raw/refs/heads/main/Pizazz/TVBoxOSC/tvbox/spider.jar;md5;a3728279be6e46f293d9428893716d65"
     },
     {
+      "key": "剧评",
+      "name": "️剧评|App",
+      "type": 3,
+      "api": "csp_Jpys",
+      "playerType": 1,
+      "ext": "7lj763gg402i7942463j9j9jh84l8798l8gli652828g332i",
+      "jar": "http://cdn.qiaoji8.com/fix250524.jar;md5;165bf6823d6a4e16f6cbc18f5bb16dce"
+    },
+    {
       "key": "蝴蝶",
       "name": "蝴蝶|APP",
       "type": 3,
       "api": "csp_Hudie",
       "playerType": 1,
       "ext": "7lj763gg402i794255648kj0hj539g9hl7k6jk52ji",
+      "jar": "http://cdn.qiaoji8.com/fix250524.jar;md5;165bf6823d6a4e16f6cbc18f5bb16dce"
+    },
+    {
+      "key": "柠檬",
+      "name": "柠檬|App",
+      "type": 3,
+      "api": "csp_Nmvod",
+      "playerType": 2,
+      "ext": "7lj763gg402i7942503g839jg74h8h88highi40799jh6i6k454419l0l5184k0g548458hh994hjj94330jk296k4l045",
       "jar": "http://cdn.qiaoji8.com/fix250524.jar;md5;165bf6823d6a4e16f6cbc18f5bb16dce"
     },
     {
@@ -204,6 +252,38 @@
       "searchable": 1,
       "playerType": 2,
       "ext": "7lj763gg402i7942463j9j9jgg449698khhh845ki38473",
+      "jar": "http://cdn.qiaoji8.com/fix250524.jar;md5;165bf6823d6a4e16f6cbc18f5bb16dce"
+    },
+    {
+      "key": "csp_sbb",
+      "name": "布布|直连",
+      "type": 3,
+      "api": "csp_Czsapp",
+      "searchable": 1,
+      "playerType": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "7lj763gg402i7942463j9j9jg3498k93lhggih54828g332i1j",
+      "jar": "http://cdn.qiaoji8.com/fix250524.jar;md5;165bf6823d6a4e16f6cbc18f5bb16dce"
+    },
+    {
+      "key": "AI3",
+      "name": "AI|仅搜索",
+      "type": 3,
+      "api": "csp_AI",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "playerType": 2,
+      "timeout": 3,
+      "ext": "7lj763gg0939795i067li482k704i2igg2k6980j95i631231j5203kgkg585g1k12j84jhl881j8396340hh487l3h30kk8l42l6851klhgjlk836ig69hj36k31i5ikhlki3gjli7k",
+      "jar": "http://cdn.qiaoji8.com/fix250524.jar;md5;165bf6823d6a4e16f6cbc18f5bb16dce"
+    },
+    {
+      "key": "Dygang",
+      "name": "电影港|边下边播",
+      "type": 3,
+      "api": "csp_Dygang",
       "jar": "http://cdn.qiaoji8.com/fix250524.jar;md5;165bf6823d6a4e16f6cbc18f5bb16dce"
     },
     {
@@ -1328,19 +1408,6 @@
   ],
   "lives": [
     {
-      "name": "🐑NPTV",
-      "type": 0,
-      "url": "https://nptv.freetv.top/juhe.m3u",
-      "playerType": 3,
-      "timeout": 10
-    },
-    {
-      "name": "LiSha521.TV",
-      "type": 0,
-      "url": "http://lisha521.dynv6.net.fh4u.org/tv.txt",
-      "playerType": 1
-    },
-    {
       "name": "LiSha521.IPTV",
       "type": 0,
       "url": "http://lisha521.dynv6.net.fh4u.org/iptv.txt",
@@ -1349,6 +1416,12 @@
       "ua": "okhttp/3.15,AptvPlayer/1.4.0",
       "timeout": 10,
       "playerType": 2
+    },
+    {
+      "name": "LiSha521.TV",
+      "type": 0,
+      "url": "http://lisha521.dynv6.net.fh4u.org/tv.txt",
+      "playerType": 1
     },
     {
       "name": "LiSha521.HLJ",
