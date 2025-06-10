@@ -211,6 +211,18 @@
                 "version": "1.7.1|32位"
             },
             {
+                "name": "🎧️魔改版",
+                "url": "https://gh-proxy.com/github.com/SimonWang911/simonwangsub/raw/refs/heads/main/appupdate/LXMusic/ikun-music-mobile-v1.7.5-arm64-v8a.apk",
+                "icon": "https://picx.zhimg.com/v2-2b83c5c7930ce75223b5b7df4f0b59d4.jpg",
+                "version": "1.7.5|64位"
+            },
+            {
+                "name": "🎧️魔改版",
+                "url": "https://gh-proxy.com/github.com/SimonWang911/simonwangsub/raw/refs/heads/main/appupdate/LXMusic/ikun-music-mobile-v1.7.5-armeabi-v7a.apk",
+                "icon": "https://picx.zhimg.com/v2-2b83c5c7930ce75223b5b7df4f0b59d4.jpg",
+                "version": "1.7.5|32位"
+            },
+            {
                 "name": "🎧️Bate版",
                 "url": "https://gh-proxy.com/github.com/SimonWang911/simonwangsub/raw/refs/heads/main/appupdate/LXMusic/lx-music-mobile-v1.8.0-beta.0-arm64-v8a.apk",
                 "icon": "https://picx.zhimg.com/v2-2b83c5c7930ce75223b5b7df4f0b59d4.jpg",
