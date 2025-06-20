@@ -120,15 +120,15 @@
         "list": [
             {
                 "name": "📺电视版",
-                "url": "https://gh-proxy.com/github.com/SimonWang911/simonwangsub/raw/refs/heads/main/appupdate/YingShiCang/影视仓电视版6.1.2-exo1.6.1修正无声倍速.apk",
+                "url": "https://gh-proxy.com/github.com/SimonWang911/simonwangsub/raw/refs/heads/main/appupdate/YingShiCang/影视仓电视版-6.1.3-exo161.apk",
                 "icon": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1691551074.55475919.png",
-                "version": "6.1.2"
+                "version": "6.1.3"
             },
             {
                 "name": "📱手机版",
-                "url": "https://gh-proxy.com/github.com/SimonWang911/simonwangsub/raw/refs/heads/main/appupdate/YingShiCang/影视仓手机版3.1.6-exo内核1.6.1.apk",
+                "url": "https://gh-proxy.com/github.com/SimonWang911/simonwangsub/raw/refs/heads/main/appupdate/YingShiCang/影视仓手机版3.1.9.1-exo161.apk",
                 "icon": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1730124020.81653464.png",
-                "version": "3.1.6"
+                "version": "3.1.9.1"
             },
             {
                 "name": "🎮️游戏版",
