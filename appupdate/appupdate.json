@@ -154,27 +154,50 @@
         "list": [
             {
                 "name": "📺️通用版",
-                "url": "https://gh-proxy.com/github.com/SimonWang911/simonwangsub/raw/refs/heads/main/appupdate/takagen99/TVBox_takagen99_20250508-1756-arm64-generic-python.apk",
+                "url": "https://gh-proxy.com/github.com/SimonWang911/simonwangsub/raw/refs/heads/main/appupdate/takagen99/TVBox_takagen99_20250627-0002-arm64-generic-python.apk",
                 "icon": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1691551074.55475919.png",
-                "version": "0508|64位(推荐)"
-            },
-            {
-                "name": "📺️海信版",
-                "url": "https://gh-proxy.com/github.com/SimonWang911/simonwangsub/raw/refs/heads/main/appupdate/takagen99/TVBox_takagen99_20250508-1756-arm64-hisense-python.apk",
-                "icon": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1691551074.55475919.png",
-                "version": "0508|64位"
+                "version": "Python|64位(推荐)"
             },
             {
                 "name": "📺️通用版",
-                "url": "https://gh-proxy.com/github.com/SimonWang911/simonwangsub/raw/refs/heads/main/appupdate/takagen99/TVBox_takagen99_20250508-1756-armeabi-generic-python.apk",
+                "url": "https://gh-proxy.com/github.com/SimonWang911/simonwangsub/raw/refs/heads/main/appupdate/takagen99/TVBox_takagen99_20250627-0002-arm64-generic-java.apk",
                 "icon": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1691551074.55475919.png",
-                "version": "0508|32位"
+                "version": "Java|64位(推荐)"
             },
             {
                 "name": "📺️海信版",
-                "url": "https://gh-proxy.com/github.com/SimonWang911/simonwangsub/raw/refs/heads/main/appupdate/takagen99/TVBox_takagen99_20250508-1756-armeabi-hisense-python.apk",
+                "url": "https://gh-proxy.com/github.com/SimonWang911/simonwangsub/raw/refs/heads/main/appupdate/takagen99/TVBox_takagen99_20250627-0002-arm64-hisense-python.apk",
                 "icon": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1691551074.55475919.png",
-                "version": "0508|32位"
+                "version": "Python|64位"
+            },
+            {
+                "name": "📺️海信版",
+                "url": "https://gh-proxy.com/github.com/SimonWang911/simonwangsub/raw/refs/heads/main/appupdate/takagen99/TVBox_takagen99_20250627-0002-arm64-hisense-java.apk",
+                "icon": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1691551074.55475919.png",
+                "version": "Java|64位"
+            {
+                "name": "📺️通用版",
+                "url": "https://gh-proxy.com/github.com/SimonWang911/simonwangsub/raw/refs/heads/main/appupdate/takagen99/TVBox_takagen99_20250627-0002-armeabi-generic-python.apk",
+                "icon": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1691551074.55475919.png",
+                "version": "Python|32位"
+            },
+            {
+                "name": "📺️通用版",
+                "url": "https://gh-proxy.com/github.com/SimonWang911/simonwangsub/raw/refs/heads/main/appupdate/takagen99/TVBox_takagen99_20250627-0002-armeabi-generic-java.apk",
+                "icon": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1691551074.55475919.png",
+                "version": "Java|32位"
+            },
+            {
+                "name": "📺️海信版",
+                "url": "https://gh-proxy.com/github.com/SimonWang911/simonwangsub/raw/refs/heads/main/appupdate/takagen99/TVBox_takagen99_20250627-0002-armeabi-hisense-python.apk",
+                "icon": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1691551074.55475919.png",
+                "version": "Python|32位"
+            },
+            {
+                "name": "📺️海信版",
+                "url": "https://gh-proxy.com/github.com/SimonWang911/simonwangsub/raw/refs/heads/main/appupdate/takagen99/TVBox_takagen99_20250627-0002-armeabi-hisense-java.apk",
+                "icon": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1691551074.55475919.png",
+                "version": "Java|32位"
             }
         ]
     },
