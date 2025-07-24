@@ -127,15 +127,15 @@
             }
         },
         {
-            "key": "APP4K",
+            "key": "蓝光",
             "name": "蓝光｜APP",
             "type": 3,
             "quickSearch": 1,
             "api": "csp_AppGet",
             "ext": {
-                "url": "http://59.153.167.186",
-                "dataKey": "SDSFET23215FDSF2",
-                "dataIv": "SDSFET23215FDSF2",
+                "url": "http://122.228.193.2:9654",
+                "dataKey": "ca94b06ca3c7d80e",
+                "dataIv": "ca94b06ca3c7d80e",
                 "deviceId": "",
                 "version": "119"
             }
@@ -349,7 +349,8 @@
             "quickSearch": 1,
             "api": "csp_AppGet",
             "ext": {
-                "url": "https://www.guahd.com",
+                "url": "",
+                "site": "https://www.guahd.com/1.txt",
                 "dataKey": "f2A7D4B9E8C16531",
                 "dataIv": "f2A7D4B9E8C16531",
                 "deviceId": "",
@@ -1030,6 +1031,28 @@
             "playerType": 2
         },
         {
+            "key": "爱看短剧",
+            "name": "爱看｜短剧",
+            "type": 3,
+            "api": "./py/爱看短剧.py",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "playerType": 2
+        },
+        {
+            "key": "锦鲤短剧",
+            "name": "锦鲤｜短剧",
+            "type": 3,
+            "api": "./py/锦鲤短剧.py",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "playerType": 2
+        },
+        {
             "key": "短剧屋",
             "name": "短剧屋｜短剧",
             "type": 3,
@@ -1212,11 +1235,32 @@
             "filterable": 1
         },
         {
+            "key": "明星影视",
+            "name": "明星｜影视",
+            "type": 3,
+            "api": "csp_HBPQ",
+            "ext": "./XBPQ/明星影视.json"
+        },
+        {
+            "key": "麦田影视",
+            "name": "麦田｜影视",
+            "type": 3,
+            "api": "csp_HBPQ",
+            "ext": "./XBPQ/麦田影视.json"
+        },
+        {
             "key": "海纳影视",
             "name": "海纳｜影视",
             "type": 3,
             "api": "csp_HBPQ",
             "ext": "./XBPQ/海纳影视.json"
+        },
+        {
+            "key": "免费影视",
+            "name": "免费｜影视",
+            "type": 3,
+            "api": "csp_HBPQ",
+            "ext": "./XBPQ/免费影视.json"
         },
         {
             "key": "面包影视",
