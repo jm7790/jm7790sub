@@ -1,5 +1,5 @@
 {
-  "spider": "./pg.jar;md5;eebd540f3a683eb8c5b4f5a61288053d",
+  "spider": "./pg.jar;md5;011de7c2e5f40aa54e85939ce6162f7f",
   "sites": [
     {
       "key": "豆瓣",
@@ -44,7 +44,7 @@
       "ext": {
         "url": "http://v.rbotv.cn"
       },
-      "jar": "https://gh-proxy.com/github.com/SimonWang911/simonwangsub/raw/refs/heads/main/Pizazz/TVBoxOSC/tvbox/spider.jar;md5;a75f725a23232f3aa83c6f049b5addb7"
+      "jar": "https://gh-proxy.com/github.com/SimonWang911/simonwangsub/raw/refs/heads/main/Pizazz/TVBoxOSC/tvbox/spider.jar;md5;90c09f9ddba0f9504f773b1081be487e"
     },
     {
       "key": "天天影视",
@@ -57,7 +57,7 @@
       "ext": {
         "url": "http://tt.ysdqjs.cn"
       },
-      "jar": "https://gh-proxy.com/github.com/SimonWang911/simonwangsub/raw/refs/heads/main/Pizazz/TVBoxOSC/tvbox/spider.jar;md5;a75f725a23232f3aa83c6f049b5addb7"
+      "jar": "https://gh-proxy.com/github.com/SimonWang911/simonwangsub/raw/refs/heads/main/Pizazz/TVBoxOSC/tvbox/spider.jar;md5;90c09f9ddba0f9504f773b1081be487e"
     },
     {
       "key": "浪酷影视",
@@ -70,7 +70,7 @@
       "ext": {
         "url": "http://v.lkuys.cn"
       },
-      "jar": "https://gh-proxy.com/github.com/SimonWang911/simonwangsub/raw/refs/heads/main/Pizazz/TVBoxOSC/tvbox/spider.jar;md5;a75f725a23232f3aa83c6f049b5addb7"
+      "jar": "https://gh-proxy.com/github.com/SimonWang911/simonwangsub/raw/refs/heads/main/Pizazz/TVBoxOSC/tvbox/spider.jar;md5;90c09f9ddba0f9504f773b1081be487e"
     },
     {
       "key": "金牌影视",
@@ -84,7 +84,7 @@
       "ext": {
         "site": "https://m.hkybqufgh.com,https://m.sizhengxt.com,https://m.9zhoukj.com,https://m.sizhengxt.com,https://m.jiabaide.cn"
       },
-      "jar": "https://gh-proxy.com/github.com/SimonWang911/simonwangsub/raw/refs/heads/main/Pizazz/TVBoxOSC/tvbox/spider.jar;md5;a75f725a23232f3aa83c6f049b5addb7"
+      "jar": "https://gh-proxy.com/github.com/SimonWang911/simonwangsub/raw/refs/heads/main/Pizazz/TVBoxOSC/tvbox/spider.jar;md5;90c09f9ddba0f9504f773b1081be487e"
     },
     {
       "key": "猎手影视",
@@ -96,7 +96,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "playerType": 2,
-      "jar": "https://gh-proxy.com/github.com/SimonWang911/simonwangsub/raw/refs/heads/main/Pizazz/TVBoxOSC/tvbox/spider.jar;md5;a75f725a23232f3aa83c6f049b5addb7"
+      "jar": "https://gh-proxy.com/github.com/SimonWang911/simonwangsub/raw/refs/heads/main/Pizazz/TVBoxOSC/tvbox/spider.jar;md5;90c09f9ddba0f9504f773b1081be487e"
     },
     {
       "key": "厂长影视",
@@ -108,7 +108,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://www.czzymovie.com/",
-      "jar": "https://gh-proxy.com/github.com/SimonWang911/simonwangsub/raw/refs/heads/main/Pizazz/TVBoxOSC/tvbox/spider.jar;md5;a75f725a23232f3aa83c6f049b5addb7"
+      "jar": "https://gh-proxy.com/github.com/SimonWang911/simonwangsub/raw/refs/heads/main/Pizazz/TVBoxOSC/tvbox/spider.jar;md5;90c09f9ddba0f9504f773b1081be487e"
     },
     {
       "key": "苹果影视",
@@ -118,7 +118,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://gh-proxy.com/github.com/SimonWang911/simonwangsub/raw/refs/heads/main/Pizazz/TVBoxOSC/tvbox/spider.jar;md5;a75f725a23232f3aa83c6f049b5addb7"
+      "jar": "https://gh-proxy.com/github.com/SimonWang911/simonwangsub/raw/refs/heads/main/Pizazz/TVBoxOSC/tvbox/spider.jar;md5;90c09f9ddba0f9504f773b1081be487e"
     },
     {
       "key": "白白影视",
@@ -126,7 +126,7 @@
       "type": 3,
       "api": "csp_SuBaiBai",
       "ext": "https://www.subaibai.com",
-      "jar": "https://gh-proxy.com/github.com/SimonWang911/simonwangsub/raw/refs/heads/main/Pizazz/TVBoxOSC/tvbox/spider.jar;md5;a75f725a23232f3aa83c6f049b5addb7"
+      "jar": "https://gh-proxy.com/github.com/SimonWang911/simonwangsub/raw/refs/heads/main/Pizazz/TVBoxOSC/tvbox/spider.jar;md5;90c09f9ddba0f9504f773b1081be487e"
     },
     {
       "key": "低端影视",
@@ -136,7 +136,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://gh-proxy.com/github.com/SimonWang911/simonwangsub/raw/refs/heads/main/Pizazz/TVBoxOSC/tvbox/spider.jar;md5;a75f725a23232f3aa83c6f049b5addb7"
+      "jar": "https://gh-proxy.com/github.com/SimonWang911/simonwangsub/raw/refs/heads/main/Pizazz/TVBoxOSC/tvbox/spider.jar;md5;90c09f9ddba0f9504f773b1081be487e"
     },
     {
       "key": "瓜子影视",
@@ -146,7 +146,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://gh-proxy.com/github.com/SimonWang911/simonwangsub/raw/refs/heads/main/Pizazz/TVBoxOSC/tvbox/spider.jar;md5;a75f725a23232f3aa83c6f049b5addb7"
+      "jar": "https://gh-proxy.com/github.com/SimonWang911/simonwangsub/raw/refs/heads/main/Pizazz/TVBoxOSC/tvbox/spider.jar;md5;90c09f9ddba0f9504f773b1081be487e"
     },
     {
       "key": "永乐影视",
@@ -154,7 +154,7 @@
       "type": 3,
       "api": "csp_HBPQ",
       "ext": "https://gh-proxy.com/github.com/SimonWang911/simonwangsub/raw/refs/heads/main/Pizazz/XBPQ/永乐影视.json",
-      "jar": "https://gh-proxy.com/github.com/SimonWang911/simonwangsub/raw/refs/heads/main/Pizazz/TVBoxOSC/tvbox/spider.jar;md5;a75f725a23232f3aa83c6f049b5addb7"
+      "jar": "https://gh-proxy.com/github.com/SimonWang911/simonwangsub/raw/refs/heads/main/Pizazz/TVBoxOSC/tvbox/spider.jar;md5;90c09f9ddba0f9504f773b1081be487e"
     },
     {
       "key": "农民影视",
@@ -165,7 +165,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://gh-proxy.com/github.com/SimonWang911/simonwangsub/raw/refs/heads/main/Pizazz/XYQHiker/农民影视.json",
-      "jar": "https://gh-proxy.com/github.com/SimonWang911/simonwangsub/raw/refs/heads/main/Pizazz/TVBoxOSC/tvbox/spider.jar;md5;a75f725a23232f3aa83c6f049b5addb7"
+      "jar": "https://gh-proxy.com/github.com/SimonWang911/simonwangsub/raw/refs/heads/main/Pizazz/TVBoxOSC/tvbox/spider.jar;md5;90c09f9ddba0f9504f773b1081be487e"
     },
     {
       "key": "采集之王",
@@ -173,7 +173,7 @@
       "type": 3,
       "api": "https://gh-proxy.com/github.com/SimonWang911/simonwangsub/raw/refs/heads/main/Pizazz/js/drpy2.min.js",
       "ext": "https://gh-proxy.com/github.com/SimonWang911/simonwangsub/raw/refs/heads/main/Pizazz/js/采集之王.js?type=url&params=https://gh-proxy.com/github.com/SimonWang911/simonwangsub/raw/refs/heads/main/Pizazz/json/采集静态.json$1$1",
-      "jar": "https://gh-proxy.com/github.com/SimonWang911/simonwangsub/raw/refs/heads/main/Pizazz/TVBoxOSC/tvbox/spider.jar;md5;a75f725a23232f3aa83c6f049b5addb7"
+      "jar": "https://gh-proxy.com/github.com/SimonWang911/simonwangsub/raw/refs/heads/main/Pizazz/TVBoxOSC/tvbox/spider.jar;md5;90c09f9ddba0f9504f773b1081be487e"
     },
     {
       "key": "星芽短剧",
@@ -184,7 +184,7 @@
       "changeable": 1,
       "quickSearch": 0,
       "filterable": 0,
-      "jar": "https://gh-proxy.com/github.com/SimonWang911/simonwangsub/raw/refs/heads/main/Pizazz/TVBoxOSC/tvbox/spider.jar;md5;a75f725a23232f3aa83c6f049b5addb7"
+      "jar": "https://gh-proxy.com/github.com/SimonWang911/simonwangsub/raw/refs/heads/main/Pizazz/TVBoxOSC/tvbox/spider.jar;md5;90c09f9ddba0f9504f773b1081be487e"
     },
     {
       "key": "甜圈短剧",
@@ -196,7 +196,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "playerType": 2,
-      "jar": "https://gh-proxy.com/github.com/SimonWang911/simonwangsub/raw/refs/heads/main/Pizazz/TVBoxOSC/tvbox/spider.jar;md5;a75f725a23232f3aa83c6f049b5addb7"
+      "jar": "https://gh-proxy.com/github.com/SimonWang911/simonwangsub/raw/refs/heads/main/Pizazz/TVBoxOSC/tvbox/spider.jar;md5;90c09f9ddba0f9504f773b1081be487e"
     },
     {
       "key": "河马短剧",
@@ -208,7 +208,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "playerType": 2,
-      "jar": "https://gh-proxy.com/github.com/SimonWang911/simonwangsub/raw/refs/heads/main/Pizazz/TVBoxOSC/tvbox/spider.jar;md5;a75f725a23232f3aa83c6f049b5addb7"
+      "jar": "https://gh-proxy.com/github.com/SimonWang911/simonwangsub/raw/refs/heads/main/Pizazz/TVBoxOSC/tvbox/spider.jar;md5;90c09f9ddba0f9504f773b1081be487e"
     },
     {
       "key": "偷乐短剧",
@@ -220,7 +220,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "playerType": 2,
-      "jar": "https://gh-proxy.com/github.com/SimonWang911/simonwangsub/raw/refs/heads/main/Pizazz/TVBoxOSC/tvbox/spider.jar;md5;a75f725a23232f3aa83c6f049b5addb7"
+      "jar": "https://gh-proxy.com/github.com/SimonWang911/simonwangsub/raw/refs/heads/main/Pizazz/TVBoxOSC/tvbox/spider.jar;md5;90c09f9ddba0f9504f773b1081be487e"
     },
     {
       "key": "短剧网",
@@ -229,7 +229,7 @@
       "changeable": 1,
       "api": "csp_XBPQ",
       "ext": "https://gh-proxy.com/github.com/SimonWang911/simonwangsub/raw/refs/heads/main/Pizazz/XBPQ/短剧网.json",
-      "jar": "https://gh-proxy.com/github.com/SimonWang911/simonwangsub/raw/refs/heads/main/Pizazz/TVBoxOSC/tvbox/spider.jar;md5;a75f725a23232f3aa83c6f049b5addb7"
+      "jar": "https://gh-proxy.com/github.com/SimonWang911/simonwangsub/raw/refs/heads/main/Pizazz/TVBoxOSC/tvbox/spider.jar;md5;90c09f9ddba0f9504f773b1081be487e"
     },
     {
       "key": "短剧屋",
@@ -241,7 +241,7 @@
       "filterable": 1,
       "changeable": 1,
       "ext": "https://gh-proxy.com/github.com/SimonWang911/simonwangsub/raw/refs/heads/main/Pizazz/XYQHiker/短剧屋.json",
-      "jar": "https://gh-proxy.com/github.com/SimonWang911/simonwangsub/raw/refs/heads/main/Pizazz/TVBoxOSC/tvbox/spider.jar;md5;a75f725a23232f3aa83c6f049b5addb7"
+      "jar": "https://gh-proxy.com/github.com/SimonWang911/simonwangsub/raw/refs/heads/main/Pizazz/TVBoxOSC/tvbox/spider.jar;md5;90c09f9ddba0f9504f773b1081be487e"
     },
     {
       "key": "豆瓣",
@@ -265,7 +265,7 @@
         "keywords": "名称,片名,推荐",
         "tgsearch_url": "http://tg.fish2018.ip-ddns.com",
         "tgsearch_media_url": "http://tg.fish2018.ip-ddns.com",
-        "channellist": "tgsearchers,leoziyuan,ucpanpan,tyysypzypd,+1pDtGDqv-bJmYjM1,pan123pan,zyfb123,zyzhpd123,xx123pan,tianyi_pd2,tianyirigeng,tyypzhpd,cloudtianyi,kuakeclound,ydypzyfx,clouddriveresources,NewQuark,New_Sharing,alypzyhzq|1000,Mbox115|1000,shares_115|1000,wanwansubchat|1000",
+        "channellist": "tgsearchers3,leoziyuan,peccxinpd,yydf_hzl,vip115hot,clouddriveresources,q66share,yggpan,xiangxiunbb,oscardianying,dianying4k,wfysfx02,quarkfree,ucwpzy,ucquark,mcph860,mcph608,xunleibl,taoxgzy,yunpanx,kkxlzy,mcph086,+P4IU1QbK4ChlNTYx,+h10ulzfxiQZiYTdi,+fSHARlBjBSNhN2Ix,dianyingshare,quark_movies,zyfx2022,alyp_1,quanziyuanshe,hdhhd21,guoman4k,duan_ju,q_dianying,q_dianshiju,sharepanfilms,mcph01,jdjdn1111,panjclub,baicaozy,+cpJ_dIx_hlYxMWQx,+Jc37JCr1diEzNDMx,yunpan189,tianyirigeng,cloudtianyi,tyysypzypd,txtyzy,kuakeclound,tyypzhpd,zyfb123,xx123pan,zyzhpd123,yingshifenxiang123,yp123pan,wp123zy115:oneonefivewpfx,lsp115,qukanmovie,channel_shares_115,share4115,ysxb48,aliyun:zaihuayun,sharealiyun,aliyun_4k_movies,aliyunys,qixingzhenren,+XssuNX4aT5Y0MjQx,yunpanuc,ucshare,ucwangpan",
         "proxy": "proxy",
         "douban": "./lib/douban.json",
         "danmu": true
@@ -334,7 +334,7 @@
         "keywords": "名称,片名,推荐",
         "tgsearch_url": "http://tg.fish2018.ip-ddns.com",
         "tgsearch_media_url": "http://tg.fish2018.ip-ddns.com",
-        "channellist": "tgsearchers,leoziyuan,ucpanpan,tyysypzypd,+1pDtGDqv-bJmYjM1,pan123pan,zyfb123,zyzhpd123,xx123pan,tianyi_pd2,tianyirigeng,tyypzhpd,cloudtianyi,kuakeclound,ydypzyfx,clouddriveresources,NewQuark,New_Sharing,oneonefivewpfx,hao115,guaguale115,Channel_Shares_115,dianyingshare,XiangxiuNB,yunpanpan,kuakeyun,zaihuayun,Quark_Movies,vip115hot,yunpanshare,shareAliyun,ikiviyyp,alyp_1,quanziyuanshe",
+        "channellist": "tgsearchers3,leoziyuan,peccxinpd,yydf_hzl,vip115hot,clouddriveresources,q66share,yggpan,xiangxiunbb,oscardianying,dianying4k,wfysfx02,quarkfree,ucwpzy,ucquark,mcph860,mcph608,xunleibl,taoxgzy,yunpanx,kkxlzy,mcph086,+P4IU1QbK4ChlNTYx,+h10ulzfxiQZiYTdi,+fSHARlBjBSNhN2Ix,dianyingshare,quark_movies,zyfx2022,alyp_1,quanziyuanshe,hdhhd21,guoman4k,duan_ju,q_dianying,q_dianshiju,sharepanfilms,mcph01,jdjdn1111,panjclub,baicaozy,+cpJ_dIx_hlYxMWQx,+Jc37JCr1diEzNDMx,yunpan189,tianyirigeng,cloudtianyi,tyysypzypd,txtyzy,kuakeclound,tyypzhpd,zyfb123,xx123pan,zyzhpd123,yingshifenxiang123,yp123pan,wp123zy115:oneonefivewpfx,lsp115,qukanmovie,channel_shares_115,share4115,ysxb48,aliyun:zaihuayun,sharealiyun,aliyun_4k_movies,aliyunys,qixingzhenren,+XssuNX4aT5Y0MjQx,yunpanuc,ucshare,ucwangpan",
         "proxy": "proxy",
         "danmu": true
       },
@@ -355,7 +355,7 @@
         "keywords": "名称,片名,推荐",
         "tgsearch_url": "http://tg.fish2018.ip-ddns.com",
         "tgsearch_media_url": "http://tg.fish2018.ip-ddns.com",
-        "channellist": "alypzyhzq|1000,Mbox115|1000,shares_115|1000,NewQuark|1000,New_Sharing|1000,wanwansubchat|1000",
+        "channellist": "tgsearchers3,KFCYeah,tianyifc,BaiduCloudDisk,txtyzy,peccxinpd,gotopan,PanjClub,kkxlzy,baicaoZY,yggpan,zaihuayun,Q66Share,Oscar_4Kmovies,shareAliyun,alyp_1,Quark_Movies,XiangxiuNBB,ydypzyfx,ucquark,xx123pan,zyfb123,tyypzhpd,tianyirigeng,cloudtianyi,hdhhd21,Lsp115,qixingzhenren,tyysypzypd,vip115hot,wp123zy,yunpan189,yydf_hzl,leoziyuan",
         "proxy": "noproxy",
         "danmu": true
       },
