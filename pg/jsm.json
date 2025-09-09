@@ -121,14 +121,6 @@
       "jar": "https://gh-proxy.com/github.com/SimonWang911/simonwangsub/raw/refs/heads/main/Pizazz/TVBoxOSC/tvbox/spider.jar;md5;88e4d3b51b2fad1b88170c58da897217"
     },
     {
-      "key": "白白影视",
-      "name": "白白|影视",
-      "type": 3,
-      "api": "csp_SuBaiBai",
-      "ext": "https://www.subaibai.com",
-      "jar": "https://gh-proxy.com/github.com/SimonWang911/simonwangsub/raw/refs/heads/main/Pizazz/TVBoxOSC/tvbox/spider.jar;md5;88e4d3b51b2fad1b88170c58da897217"
-    },
-    {
       "key": "低端影视",
       "name": "低端|影视",
       "type": 3,

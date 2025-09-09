@@ -93,25 +93,25 @@
                 "name": "📺️电视版",
                 "url": "https://gh-proxy.com/github.com/SimonWang911/simonwangsub/raw/refs/heads/main/appupdate/FongMi/leanback-arm64_v8a.apk",
                 "icon": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1691551074.55475919.png",
-                "version": "4.0.7|64位(推荐)"
+                "version": "4.1.7|64位(推荐)"
             },
             {
                 "name": "📺️电视版",
                 "url": "https://gh-proxy.com/github.com/SimonWang911/simonwangsub/raw/refs/heads/main/appupdate/FongMi/leanback-armeabi_v7a.apk",
                 "icon": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1691551074.55475919.png",
-                "version": "4.0.7|32位"
+                "version": "4.1.7|32位"
             },
             {
                 "name": "📱手机版",
                 "url": "https://gh-proxy.com/github.com/SimonWang911/simonwangsub/raw/refs/heads/main/appupdate/FongMi/mobile-arm64_v8a.apk",
                 "icon": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1730124020.81653464.png",
-                "version": "4.0.7|64位(推荐)"
+                "version": "4.1.7|64位(推荐)"
             },
             {
                 "name": "📱手机版",
                 "url": "https://gh-proxy.com/github.com/SimonWang911/simonwangsub/raw/refs/heads/main/appupdate/FongMi/mobile-armeabi_v7a.apk",
                 "icon": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1730124020.81653464.png",
-                "version": "4.0.7|32位"
+                "version": "4.1.7|32位"
             }
         ]
     },
@@ -265,13 +265,13 @@
         "list": [
             {
                 "name": "✈️️高德地图",
-                "url": "https://mapdownload.autonavi.com/apps/auto/manual/V810/Auto_8.1.0.600185_release_signed.apk?u=91a569703d4d02371c26e19df035fa11&",
+                "url": "https://mapdownload.autonavi.com/apps/auto/manual/V850/AUTOBUILD_AutoCpp_Publish_8.5.0.600058_Auto_8.5.0.600058_android_armeabi_v7a_signed.apk?u=abb93136cada4dee6eced7f9e95140ed&",
                 "icon": "https://bkimg.cdn.bcebos.com/pic/7c1ed21b0ef41bd5ad6ec10ef18d96cb39dbb7fd9788?x-bce-process=image/format,f_auto",
                 "version": "车机版"
             },
             {
                 "name": "🐾百度地图",
-                "url": "https://downapp.baidu.com/original_new/322/1/1/1753455548270/BaiduMapForAuto.apk",
+                "url": "https://downapp.baidu.com/original_new/322/1/1/1757070832439/BaiduMapForAuto.apk",
                 "icon": "https://bkimg.cdn.bcebos.com/pic/18d8bc3eb13533fa828b7f49158aea1f4134970aed18?x-bce-process=image/format,f_auto",
                 "version": "车机版"
             }
