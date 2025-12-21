@@ -97,27 +97,27 @@
         "list": [
             {
                 "name": "📺️电视版",
-                "url": "https://gh-proxy.com/github.com/SimonWang911/simonwangsub/raw/refs/heads/main/appupdate/FongMi/leanback-arm64_v8a_5.0.2.apk",
+                "url": "https://gh-proxy.com/github.com/SimonWang911/simonwangsub/raw/refs/heads/main/appupdate/FongMi/leanback-arm64_v8a_5.0.3.apk",
                 "icon": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1691551074.55475919.png",
-                "version": "5.0.2|64位(推荐)"
+                "version": "5.0.3|64位(推荐)"
             },
             {
                 "name": "📺️电视版",
-                "url": "https://gh-proxy.com/github.com/SimonWang911/simonwangsub/raw/refs/heads/main/appupdate/FongMi/leanback-armeabi_v7a_5.0.2.apk",
+                "url": "https://gh-proxy.com/github.com/SimonWang911/simonwangsub/raw/refs/heads/main/appupdate/FongMi/leanback-armeabi_v7a_5.0.3.apk",
                 "icon": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1691551074.55475919.png",
-                "version": "5.0.2|32位"
+                "version": "5.0.3|32位"
             },
             {
                 "name": "📱手机版",
-                "url": "https://gh-proxy.com/github.com/SimonWang911/simonwangsub/raw/refs/heads/main/appupdate/FongMi/mobile-arm64_v8a_5.0.2.apk",
+                "url": "https://gh-proxy.com/github.com/SimonWang911/simonwangsub/raw/refs/heads/main/appupdate/FongMi/mobile-arm64_v8a_5.0.3.apk",
                 "icon": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1730124020.81653464.png",
-                "version": "5.0.2|64位(推荐)"
+                "version": "5.0.3|64位(推荐)"
             },
             {
                 "name": "📱手机版",
-                "url": "https://gh-proxy.com/github.com/SimonWang911/simonwangsub/raw/refs/heads/main/appupdate/FongMi/mobile-armeabi_v7a_5.0.2.apk",
+                "url": "https://gh-proxy.com/github.com/SimonWang911/simonwangsub/raw/refs/heads/main/appupdate/FongMi/mobile-armeabi_v7a_5.0.3.apk",
                 "icon": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1730124020.81653464.png",
-                "version": "5.0.2|32位"
+                "version": "5.0.3|32位"
             }
         ]
     },
